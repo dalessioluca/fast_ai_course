@@ -1,0 +1,6 @@
+To scrape images from web:
+1. Install Chromedriver
+    a. identify your chrome version by clicking "About Google Chrome"
+    b. download the correct version of Chromedriver from here here https://chromedriver.chromium.org/downloads
+    c. put the executable in an accesible place (such as Desktop/Scraping)
+2. Use jupyter notebooks 
